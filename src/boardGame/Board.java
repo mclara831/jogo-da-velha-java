@@ -1,7 +1,7 @@
 package boardGame;
 
 import Exceptions.gameException;
-import game.Simbolos;
+import boardGame.game.Simbolos;
 
 public class Board {
     

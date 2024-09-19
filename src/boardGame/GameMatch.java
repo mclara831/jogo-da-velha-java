@@ -1,6 +1,6 @@
 package boardGame;
 
-import game.Simbolos;
+import boardGame.game.Simbolos;
 
 public class GameMatch {
 

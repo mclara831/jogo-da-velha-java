@@ -1,4 +1,4 @@
-package game;
+package boardGame.game;
 
 public enum Simbolos {
     X,
